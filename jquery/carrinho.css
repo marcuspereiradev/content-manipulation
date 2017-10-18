@@ -37,6 +37,14 @@ td {
 	border-bottom: 1px solid #ddd;
 }
 
+.hovering {
+	background: #CCC;
+}
+
+#mostra-propagandas {
+	display: none;
+}
+
 .recuperado {
 	background: #FE0;	
 }
@@ -58,7 +66,7 @@ td {
 	text-decoration: none;
 	text-transform: uppercase;
 	
-	display: inline-block;
+	display: none;
 	padding: 0.5em;
 }
 
